@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Exa2</string>
+    <string name="tesoem">Tecnológico de Estudios Superiores del Oriente del Estado de México</string>
+    <string name="alumno">Dominguez Sanchez Erick</string>
+    <string name="grupo">7S21</string>
+    <string name="exa">Examen 2</string>
+    <string name="tesoem3">tesoem</string>
+    <string name="foto">foto</string>
+    <string name="nom">Nombre:</string>
+    <string name="edad">Edad:</string>
+    <string name="vedad">Verificar edad</string>
+    <string name="sal">Saluda</string>
+    <string name="hinnom">Coloca tu nombre</string>
+    <string name="hinedad">Coloca tu edad</string>
+    <string name="regresar">Regresar</string>
+    <string name="vedadlbl">TextView</string>
+    <string name="bienvenida">Bienvenido </string>
+    <string name="bienve">TextView</string>
+</resources>

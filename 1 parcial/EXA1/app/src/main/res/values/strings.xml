@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EXA1</string>
+    <string name="escuela">Tecnológico de Estudios Superiores del Oriente del Estado de México</string>
+    <string name="alumno">Dominguez Sanches Erick</string>
+    <string name="grupo">7S21</string>
+    <string name="exa">Examen 1</string>
+    <string name="tesoem">tesoem</string>
+    <string name="datos">Datos</string>
+    <string name="tesoem1">tesoem</string>
+    <string name="materias">Materias de Septimo</string>
+    <string name="ma1">Comutación y Enrutamiento</string>
+    <string name="ma2">Sistemas Programables</string>
+    <string name="ma3">Negocios de Aplicaciones Móviles</string>
+    <string name="ma4">Gestión de Proyectos de Software</string>
+    <string name="ma5">Programación web</string>
+    <string name="ma6">Lenguajes y Autómatas 2</string>
+    <string name="ma7">Introducción a Dispositivos Móviles</string>
+</resources>

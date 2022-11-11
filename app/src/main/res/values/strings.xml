@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">ExamenP2DSE</string>
+    <string name="tex1p1">Informacion</string>
+    <string name="tex2p1">Nombre:</string>
+    <string name="tex3p1">Edad:</string>
+    <string name="tex4p1">Semestre</string>
+    <string name="tex5p1">Promedio</string>
+    <string name="tex6p1">Estado</string>
+    <string name="btn1p1">Agregar</string>
+    <string name="btn2p1">Modificar</string>
+    <string name="btn3p1">Eliminar</string>
+    <string name="hin1p1">Nombre</string>
+    <string name="hin2p1">Edad</string>
+    <string name="hin3p1">Semestre</string>
+    <string name="hin4p1">Promedio</string>
+    <string name="hin5p1">Estado</string>
+
+    <string name="tex1p2">Agregar</string>
+    <string name="hin1p2">Coloca tu Matricula</string>
+    <string name="hin2p2">Coloca tu Nombre</string>
+    <string name="hin3p2">Coloca tu Edad</string>
+    <string name="hin4p2">Coloca tu Semestre</string>
+    <string name="hin5p2">Coloca tu Promedio</string>
+    <string name="btn1p2">Agregar</string>
+    <string name="btn2p2">Cancelar</string>
+
+    <string name="tex1p3">Modificar</string>
+    <string name="hin1p3">Modica la matricula</string>
+    <string name="hin2p3">Modica el nombre</string>
+    <string name="hin3p3">Modica la edad</string>
+    <string name="hin4p3">Modica el semestre</string>
+    <string name="hin5p3">Modica el promedio</string>
+    <string name="btn1p3">Modificar</string>
+    <string name="btn2p3">Cancelar</string>
+
+
+    <string name="tex1p4">Seguro que quiere eliminar los siguientes datos</string>
+    <string name="hin1p4">Matricula</string>
+    <string name="hin2p4">Nombre</string>
+    <string name="hin3p4">Edad</string>
+    <string name="hin4p4">Semestre</string>
+    <string name="hin5p4">Promedio</string>
+    <string name="hin6p4">Estado</string>
+    <string name="btn1p4">Eliminar</string>
+    <string name="btn2p4">Cancelar</string>
+
+    <string name="tv_titulo">Información</string>
+    <string name="spk">Datos</string>
+    <string name="txt_matricula">Matricula</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_edad">Edad</string>
+    <string name="txt_semestre">Semestre</string>
+    <string name="txt_promedio">Promedio</string>
+    <string name="txt_estado">Estado</string>
+    <string name="tv_aprobado">Aprobado</string>
+    <string name="tv_reprobado">No acreditado</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_modificar">Modificar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_aceptar">Aceptar</string>
+</resources>

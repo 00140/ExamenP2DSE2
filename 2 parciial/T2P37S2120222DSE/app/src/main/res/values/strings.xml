@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">T2P37S2120222DSE</string>
+    <string name="p1t1">Manejo de scroll</string>
+    <string name="p1ph1">Ingresa tu nombre</string>
+    <string name="p1ph2">Ingresa tu edad</string>
+    <string name="p1ph3">Ingresa tu correo</string>
+    <string name="p1ph4">Ingresa tu telefono</string>
+    <string name="p1btn1">Procesamos</string>
+</resources>
